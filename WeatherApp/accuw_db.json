@@ -1,0 +1,3 @@
+db = TinyDB('accuw_db.json')
+Location = db.table('Location')
+Profile = db.table('Profile')
